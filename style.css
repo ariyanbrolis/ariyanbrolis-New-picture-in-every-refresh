@@ -43,3 +43,8 @@ a {
     width: 100%;
     height: auto;
 }
+
+#reload button {
+    background: transparent;
+    border: 0px solid transparent;
+}
